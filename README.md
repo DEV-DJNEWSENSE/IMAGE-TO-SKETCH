@@ -13,6 +13,10 @@ then open cmd and copy and paste the following commands :)
 
 ```pip install cv2```
 
+else paste this command in command prompt
+
+```pip install -r requirements.txt```
+
 ---
 
 THEN OPEN THE FOLDER IN VISUAL CODE\CMD\PYCHARM ETC
