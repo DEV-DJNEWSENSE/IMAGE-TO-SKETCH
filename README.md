@@ -6,9 +6,13 @@ Use the following command to install this file
 then open cmd and copy and paste the following commands :)
 ---
 ```pip install numpy```
+
 ```pip install imageio```
+
 ```pip install scipy```
+
 ```pip install cv2```
+
 ---
 
 THEN OPEN THE FOLDER IN VISUAL CODE\CMD\PYCHARM ETC
